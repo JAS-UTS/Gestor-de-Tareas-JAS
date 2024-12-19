@@ -1,0 +1,24 @@
+# Dependencias de Python
+# Para instalar las dependencias, ejecutar: pip install -r requirements.txt
+# Para guardar las dependencias instaladas, ejecutar: pip freeze > requirements.txt
+# Para actualizar las dependencias, ejecutar: pip install -r requirements.txt --upgrade
+# Para eliminar las dependencias, ejecutar: pip uninstall -r requirements.txt -y
+
+# Para el front-end utilicé Streamlit, que es una librería de Python para crear aplicaciones web interactivas con muy poco código.
+streamlit
+
+# Pandas es una librería de Python para el análisis de datos.
+pandas
+
+# # Para actualizar cambios en tiempo real en la aplicación web, utilicé la librería de Python Watchdog.
+# xcode-select --install # Instalar para Mac
+# watchdog
+
+# Para la base de datos utilicé SQLAlchemy, que es una librería de Python para trabajar con bases de datos relacionales.
+sqlalchemy
+
+# Para conectarme a la base de datos MySQL utilicé la librería de Python PyMySQL.
+pymysql
+
+# # Para cargar las variables de entorno desde un archivo .env utilicé la librería de Python python-dotenv.
+# python-dotenv
